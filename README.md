@@ -103,14 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Integration with design tools like Figma or Adobe Color
 - [ ] API endpoint for programmatic color extraction
 
-## 📞 Contact
-
-If you have any questions, suggestions, or feedback, please feel free to:
-
-- Open an issue on GitHub
-- Reach out to me on Twitter [@yourusername](https://twitter.com/yourusername)
-- Email me at [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Christopher Roesch](https://github.com/Roeschstudio)
