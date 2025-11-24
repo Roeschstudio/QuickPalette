@@ -14,9 +14,6 @@ A simple and efficient web application that extracts color palettes from images.
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **No Server Required**: Everything runs in your browser - your images never leave your device
 
-## 🚀 Demo
-
-Try the live demo here: [https://yourusername.github.io/quickpalette](https://yourusername.github.io/quickpalette)
 
 ## 📸 Screenshots
 
