@@ -1,0 +1,46 @@
+{
+  "name": "quickpalette",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple and efficient web application that extracts color palettes from images",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "echo 'No linting configured yet'",
+    "test": "echo 'No tests configured yet'",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "keywords": [
+    "color",
+    "palette",
+    "extraction",
+    "image",
+    "design",
+    "tool",
+    "frontend",
+    "javascript",
+    "vite"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/quickpalette.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/quickpalette/issues"
+  },
+  "homepage": "https://yourusername.github.io/quickpalette",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.8",
+    "gh-pages": "^6.1.0"
+  },
+  "dependencies": {
+    "colorthief": "^2.4.0"
+  }
+}

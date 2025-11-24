@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.drag-over {
+  @apply border-blue-500 bg-blue-50;
+}
+
+.swatch {
+  transition: transform 0.2s ease;
+}
+
+.swatch:hover {
+  transform: scale(1.05);
+}
